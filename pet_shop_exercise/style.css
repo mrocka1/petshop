@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+  background-color: #e6ffff;
+  color:            #001a1a;
+}
+
+H1{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 4px 3px;
+
+}
+div { text-align: center; }
+div {
+border: double
+border: 2px solid grey;
+border-bottom-left-radius: 25px;
+
+
+}
+.pets {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 12px;
+  box shadow; box-shadow: 5px 5px #888888;
+  text align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+
+
+ul { display: inline-block; text-align: left; }
+h2{
+  text-align: center;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: normal;
+font-size: 60px;
+font-family: 'Indie Flower', cursive;
+
+}
+h3{
+  text-align: center;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: normal;
+font-size: 30px;
+font-family: 'Indie Flower', cursive;
+
+}
+
+a{
+  text-decoration: none;
+
+}
+footer {
+  border-right-style: solid;
+  border-right-width: thin;
+}
+img {
+  width: 100%;
+}
